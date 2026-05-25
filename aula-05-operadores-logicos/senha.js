@@ -1,8 +1,8 @@
 // Instrução para poder rodar
 // npm install prompt-sync
 
-// Importar módulo
-const prompt = require('prompt-sync')(); 
+    // Importar módulo
+    const prompt = require('prompt-sync')(); 
 
 // Lógica
 let nomeUsuario = prompt("Informe o nome do usuário: ");
